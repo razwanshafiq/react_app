@@ -5,7 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>This is First React app example Lecture Dated 03-Jun-2020</h1>
+      <h1>This is First React app example Lecture </h1>
+      <h2>Dated 03-Jun-2020</h2>
     </div>
   );
 }
